@@ -1,0 +1,1 @@
+cmd_drivers/star/ts0710mux/built-in.o :=  /home/nimrod/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/star/ts0710mux/built-in.o drivers/star/ts0710mux/ts0710_mux.o 

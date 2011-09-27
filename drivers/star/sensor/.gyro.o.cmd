@@ -1,0 +1,1 @@
+cmd_drivers/star/sensor/gyro.o := /home/nimrod/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/star/sensor/gyro.o drivers/star/sensor/gyro_accel.o drivers/star/sensor/gyro_accel_kxtf9.o drivers/star/sensor/nvodm_gyro_accel.o drivers/star/sensor/nvodm_accelerometer_accel_kxtf9.o 

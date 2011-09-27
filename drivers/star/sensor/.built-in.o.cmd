@@ -1,0 +1,1 @@
+cmd_drivers/star/sensor/built-in.o :=  /home/nimrod/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o drivers/star/sensor/built-in.o drivers/star/sensor/gyro.o drivers/star/sensor/ami304.o drivers/star/sensor/lge_sen_verify.o 

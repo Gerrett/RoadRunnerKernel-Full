@@ -1,0 +1,1 @@
+cmd_arch/arm/mach-tegra/odm_kit/star/built-in.o :=  /home/nimrod/android/system/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/bin/arm-eabi-ld -EL    -r -o arch/arm/mach-tegra/odm_kit/star/built-in.o arch/arm/mach-tegra/odm_kit/star/adaptations/built-in.o arch/arm/mach-tegra/odm_kit/star/platform/built-in.o arch/arm/mach-tegra/odm_kit/star/query/built-in.o 
